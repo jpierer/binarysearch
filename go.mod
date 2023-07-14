@@ -1,3 +1,3 @@
-module github.com/julianpierer/binarysearch
+module github.com/jpierer/binarysearch
 
-go 1.13
+go 1.20
